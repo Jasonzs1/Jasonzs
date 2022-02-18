@@ -2,6 +2,7 @@
 <html>
   <body>
     <h1 style="color: Lime;background-color:black;"><big><i>Hey There Its Zictate<i></big></h1>
+      <img src="giphy.gif"/>
     <hr>
     <h1 style="color: Lime;background-color;black"><b><i>About me</i></b></h1>
      <p>--I am still learning</p>
