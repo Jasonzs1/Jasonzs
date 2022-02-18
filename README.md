@@ -10,9 +10,9 @@
      <p>--I am still learning</p>
      <P>--How to find me: no need</p>
     <hr>
-     <div><img src="https://github-readme-stats.vercel.app/api?username=Jasonzs&&show_icons=true&count_private=true&theme=radical"/></div>
+     <div><img src="https://github-readme-stats.vercel.app/api?username=Jasonzs1&&show_icons=true&count_private=true&theme=radical"/></div>
      <hr>
-     <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasonzs&theme=radical"/></div>
+     <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jasonzs1&theme=radical"/></div>
     <hr>
     <h1 style="color:Lime; background-color:black;"><b><i>Love Github....</i></b></h1>
      <img src="icons8-github.gif"/>
